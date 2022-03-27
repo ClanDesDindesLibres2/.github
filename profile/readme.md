@@ -7,6 +7,7 @@
    - [Robotic arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#1--robotic-arm)
    - [Chess Board](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#2--chessboard)
 - [Chess Algorithm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI/tree/main/sunfish-master#introduction)
+- [Robot's motor mouvements](https://github.com/ClanDesDindesLibres2/RoboticArm_OpenCR/tree/main/OpenCr_MotorControle)
 ## Led's Color code 
 The RGB Led indicates the different states of the game 
 - **Start**: 
