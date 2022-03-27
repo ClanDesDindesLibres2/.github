@@ -7,7 +7,7 @@
 - [Chess Algorithm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI/tree/main/sunfish-master#introduction)
 ## Led's Color code 
 The RGB Led indicates the different states of the game 
-- **Start**: a bright **light blue** led will appear
+- <u>**Start**: a bright **light blue** led will appear
 - **Humain's turn to play**: a bright **green** led will appear
 - **Robot's turn to play**: a bright **blue** led will appear
 - **Problem**: a bright **red** led will appear
