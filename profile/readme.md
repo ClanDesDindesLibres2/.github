@@ -8,14 +8,14 @@
 ## Led's Color code 
 The RGB Led indicates the different states of the game 
 - **Start**: 
-     a bright **light blue** led will appear
+     <br>a bright **light blue** led will appear
 - **Humain's turn to play**: 
-     a bright **green** led will appear
+     <br>a bright **green** led will appear
 - **Robot's turn to play**:
-     a bright **blue** led will appear
+     <br>a bright **blue** led will appear
 - **Problem**: 
      <br>a bright **red** led will appear
 - **You Lost**: 
-     the led will **turnoff** itself
+     <br>the led will **turnoff** itself
 - **You Won**: 
-     the led will turnon into **party mode**. Party mode flashes many different colors one after the other to indicate that you have won the game.
+     <br>the led will turnon into **party mode**. Party mode flashes many different colors one after the other to indicate that you have won the game.
