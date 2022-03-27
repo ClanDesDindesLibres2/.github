@@ -14,7 +14,7 @@ The RGB Led indicates the different states of the game
 - **Robot's turn to play**:
      a bright **blue** led will appear
 - **Problem**: 
-     a bright **red** led will appear
+     <br>a bright **red** led will appear
 - **You Lost**: 
      the led will **turnoff** itself
 - **You Won**: 
