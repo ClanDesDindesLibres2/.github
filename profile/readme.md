@@ -8,22 +8,9 @@
 - [Mechanics](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#mechanics-robotic-arm-and-chessboard)
    - [Robotic arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#1--robotic-arm)
    - [Chess Board](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#2--chessboard)
-- [Chess Algorithm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI/tree/main/sunfish-master#introduction)
-- [Chess Algorithm's modification](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI)
-- [Robot's motor mouvements](https://github.com/ClanDesDindesLibres2/RoboticArm_OpenCR/tree/main/OpenCr_MotorControle)
-## Led's Color code -*To move eventually in a complete instruction guide of the game*-
-The RGB Led indicates the different states of the game 
-- **Start**: 
-     <br>a bright **light blue** led will appear
-- **Humain's turn to play**: 
-     <br>a bright **green** led will appear
-- **Robot's turn to play**:
-     <br>a bright **blue** led will appear
-- **Problem**: 
-     <br>a bright **red** led will appear
-- **You Lost**: 
-     <br>the led will **turnoff** itself
-- **You Won**: 
-     <br>the led will turnon into **party mode**. Party mode flashes many different colors one after the other to indicate that you have won the game.
+- [Chess Algorithm Sunfish documentation](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI/tree/main/sunfish-master#introduction)
+- [Chess Algorithm ChessBras](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI)
+- [Instructions Manuel ChessBras](https://github.com/ClanDesDindesLibres2/.github/blob/main/Instructions_Manual_ChessBras.docx)
+
 ## <a id="License"></a>License
 This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
