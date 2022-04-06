@@ -25,3 +25,5 @@ The RGB Led indicates the different states of the game
      <br>the led will **turnoff** itself
 - **You Won**: 
      <br>the led will turnon into **party mode**. Party mode flashes many different colors one after the other to indicate that you have won the game.
+## <a id="License"></a>License
+This project is licenced under a  [![GPL-3.0](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://github.com/SPUdeS/SPUdeS/blob/main/LICENSE) license.
