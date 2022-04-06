@@ -5,7 +5,7 @@
 <br>The following table of content will direct you to the different elements in our projet
 
 ## Table of Contents
-- [Mechanics and Electronics](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#mechanics-robotic-arm-and-chessboard)
+- [Mechanics](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#mechanics-robotic-arm-and-chessboard) and [Electronics](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/README.md#22--electrical-parts-of-the-chessboard)
    - [Robotic arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#1--robotic-arm)
    - [Chess Board](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic#2--chessboard)
 - Codes
