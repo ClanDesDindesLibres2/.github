@@ -2,7 +2,7 @@
 # ChessBras projet
 **Chess Bras** is a projet that was created by students of Sherbrooke University in Quebec, Canada. The **projet's goal** is to execute a chess game with a robotic opponent. To due so, a **robotic arm** and an **intelligent board game** were created.
 
-# PHOTO TO IMPLEMENT
+#### PHOTO TO IMPLEMENT
 
 <br>The following table of content will direct you to the different elements in our projet
 
