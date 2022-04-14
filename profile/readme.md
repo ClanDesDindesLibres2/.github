@@ -16,7 +16,7 @@
    - [Chess Algorithm ChessBras](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_PI)
    - [Motor's Code OpenCR](https://github.com/ClanDesDindesLibres2/RoboticArm_OpenCR)
 - Instructions Manuals
-   - [Instructions Manual ChessBras: How to play a game?](https://github.com/ClanDesDindesLibres2/.github/blob/main/Instructions_Manual_ChessBras.docx)
+   - [Instructions Manual ChessBras: How to play a game?](https://github.com/ClanDesDindesLibres2/.github/blob/main/Instructions_Manual_ChessBras.pdf)
    - [Instructions to build robotic arm](https://github.com/ClanDesDindesLibres2/RoboticArm_ChessBoard_Mechanic/blob/main/Mechanical/Assembly_manual/Arm%20assembly%20and%20modification%20guide.pdf)
 
 ## <a id="License"></a>License
